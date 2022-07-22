@@ -1,0 +1,30 @@
+body{
+  background-color: #EAEAEA;
+  font-family: 'Montserrat';
+  }
+.header{
+  display: inline-block;
+}
+.title{
+  display: inline-block;
+  padding-left: 205px;
+  font-size: 25px;
+  color: black;
+  font-weight: bold;
+  padding-top: 15px;
+  cursor: pointer;
+}
+.fav{
+  display: inline-block;
+  padding-left: 980px;
+  cursor: pointer;
+}
+.cart{
+  display: inline-block;
+  padding-left: 36px;
+  cursor: pointer;
+}
+.size{
+  background-color: #FFA542;
+  border-radius: 50px;
+}
